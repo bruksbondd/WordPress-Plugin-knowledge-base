@@ -1,0 +1,35 @@
+.app {
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    height: 100vh;
+    overflow: hidden;
+}
+
+.category {
+    background: #3890C6;
+    width: 20%;
+}
+
+.category .nameBase {
+    background: rgba(255,255,255, 0.4);
+    margin-top: 0;
+    margin-bottom: 30px;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 36px;
+    text-align: center;
+}
+
+.title {
+    background: #fff;
+    width: 20%;
+    text-align: center;
+}
+
+.post {
+    width: 60%;
+    background: #F0F0F0;
+
+}

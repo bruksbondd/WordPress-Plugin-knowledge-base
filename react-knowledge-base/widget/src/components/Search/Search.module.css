@@ -1,0 +1,21 @@
+.search {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.search input {
+    width: 80%;
+    border-radius: 22px;
+    background-color: #fff;
+    border: none;
+    height: 32px;
+    padding: 0 10px;
+    box-shadow: 0 3px 15px rgba(0, 0, 0, 0.09);
+}
+
+.search input:focus {
+    border: none;
+    box-shadow: 0 3px 15px rgba(0, 0, 0, 0.3);
+    outline-offset: 0;
+    outline: none;
+}

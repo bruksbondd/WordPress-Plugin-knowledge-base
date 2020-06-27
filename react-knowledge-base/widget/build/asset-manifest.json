@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/wp-content/plugins/react-knowledge-base/widget/build/static/css/main.5b4c2db5.chunk.css",
+    "main.js": "/wp-content/plugins/react-knowledge-base/widget/build/static/js/main.e57439b3.chunk.js",
+    "main.js.map": "/wp-content/plugins/react-knowledge-base/widget/build/static/js/main.e57439b3.chunk.js.map",
+    "runtime-main.js": "/wp-content/plugins/react-knowledge-base/widget/build/static/js/runtime-main.6e9b971d.js",
+    "runtime-main.js.map": "/wp-content/plugins/react-knowledge-base/widget/build/static/js/runtime-main.6e9b971d.js.map",
+    "static/js/2.dbe9dc7f.chunk.js": "/wp-content/plugins/react-knowledge-base/widget/build/static/js/2.dbe9dc7f.chunk.js",
+    "static/js/2.dbe9dc7f.chunk.js.map": "/wp-content/plugins/react-knowledge-base/widget/build/static/js/2.dbe9dc7f.chunk.js.map",
+    "index.html": "/wp-content/plugins/react-knowledge-base/widget/build/index.html",
+    "precache-manifest.520025c9d750b4507083ba99bbc9a325.js": "/wp-content/plugins/react-knowledge-base/widget/build/precache-manifest.520025c9d750b4507083ba99bbc9a325.js",
+    "service-worker.js": "/wp-content/plugins/react-knowledge-base/widget/build/service-worker.js",
+    "static/css/main.5b4c2db5.chunk.css.map": "/wp-content/plugins/react-knowledge-base/widget/build/static/css/main.5b4c2db5.chunk.css.map",
+    "static/js/2.dbe9dc7f.chunk.js.LICENSE.txt": "/wp-content/plugins/react-knowledge-base/widget/build/static/js/2.dbe9dc7f.chunk.js.LICENSE.txt",
+    "static/media/arrow.svg": "/wp-content/plugins/react-knowledge-base/widget/build/static/media/arrow.3b6d785c.svg",
+    "static/media/web.svg": "/wp-content/plugins/react-knowledge-base/widget/build/static/media/web.89220aa9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6e9b971d.js",
+    "static/js/2.dbe9dc7f.chunk.js",
+    "static/css/main.5b4c2db5.chunk.css",
+    "static/js/main.e57439b3.chunk.js"
+  ]
+}

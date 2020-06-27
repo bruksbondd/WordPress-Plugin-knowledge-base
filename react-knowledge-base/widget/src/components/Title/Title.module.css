@@ -1,0 +1,53 @@
+.title {
+    height: 100%;
+    overflow-x: scroll;
+}
+.titleCategory {
+    background: rgba(184,225,236, 0.9);
+    margin-top: 0;
+    margin-bottom: 30px;
+    color: #3890C6;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 36px;
+}
+
+
+.titleName {
+    background: #F0F0F0;
+    margin: 10px 20px;
+    padding: 0 20px;
+    display: flex;
+    border-radius: 16px;
+    cursor: pointer;
+    transition: all 300ms;
+
+}
+
+.activeTitle {
+    background: #93D3E4;
+    margin: 10px 20px;
+    padding: 0 20px;
+    display: flex;
+    border-radius: 16px;
+    cursor: pointer;
+    transition: all 300ms;
+}
+
+.titleName:hover {
+    background: #93D3E4;
+    transition: all 300ms;
+}
+.titleName h3, .activeTitle h3 {
+    padding: 9px 10px 9px 15px;
+    margin: 0;
+    font-size: 14px;
+    font-weight: 500;
+    color: #3F3B6C;
+
+}
+
+.titleName img, .activeTitle img {
+    padding: 9px 0;
+    margin: 0;
+}
